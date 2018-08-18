@@ -1,1 +1,4 @@
-**Unmaintained.**  Please use someone else's fork...
+# Substitute
+
+Cydia Substrate alternative.
+Works with KPPLess jailbreaks (Meridian & Electra).
